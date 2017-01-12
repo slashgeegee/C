@@ -1,5 +1,5 @@
 ###C++ learning
 
-+ Curriculum Vitae: cs50
+This Curriculum is under cs50.Headed by David J. Malan , awesome professor.Hopefully I can finished this problem sets next year.Shifted to ruby on rails and javascript.
 
-+ Will Continue on 2017
+![](http://i.giphy.com/lS19MXRmUvMA.gif)
